@@ -45,7 +45,7 @@ The project is structured around key DSA concepts implemented in the following w
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPO_LINK]
+    git clone [https://github.com/Jawad-maitlo/File-System-Navigator-.git](https://github.com/Jawad-maitlo/File-System-Navigator-.git)
     cd JIMSA-File-System-Navigator
     ```
 2.  **Open in IDE:** Import the project into your preferred Java IDE.
@@ -69,6 +69,6 @@ The following methods demonstrate the core DSA concepts:
 This project was developed by the following contributors:
 
 * **Shahzad Hussain**
-* **Muhammad FArhan ALi**
+* **Muhammad Farhan ALi**
 
 Feel free to open an issue if you have suggestions for conceptual improvements or find any bugs!
