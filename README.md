@@ -1,4 +1,4 @@
-# 📁 JIMSA File System Navigator
+# 📁 Core File System Navigator
 
 A JavaFX application that simulates a hierarchical file system, serving as a practical demonstration of fundamental Data Structures and Algorithms (DSA) principles. This project models file system operations, navigation, and searching using Trees, Stacks, BFS, and DFS.
 
@@ -45,7 +45,7 @@ The project is structured around key DSA concepts implemented in the following w
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Jawad-maitlo/File-System-Navigator-.git](https://github.com/Jawad-maitlo/File-System-Navigator-.git)
+    git clone https://github.com/Jawad-maitlo/File-System-Navigator-.git
     cd JIMSA-File-System-Navigator
     ```
 2.  **Open in IDE:** Import the project into your preferred Java IDE.
